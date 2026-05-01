@@ -15,12 +15,6 @@ I'm a final-year M2 student in **Applied Mathematics for Finance** at Universit�
 **Libraries**: PyTorch · scikit-learn · pandas · NumPy · SciPy · tidyverse  
 **Tools**: Jupyter · RStudio · Excel · Git
 
-### GitHub stats
-
-![Julian's stats](https://github-readme-stats.vercel.app/api?username=juliangrall&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliangrall&layout=compact&theme=default&hide_border=true)
-
 ### Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-grall/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:juliangrall@gmail.com)
